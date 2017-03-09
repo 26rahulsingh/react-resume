@@ -4,10 +4,20 @@ body {
   font-family: sans-serif;
 }
 
+.social-icon {
+  margin-right: 5px;
+}
+
+.reference-name {
+  margin-top: 5px;
+}
+
+.reference-description {
+  margin-bottom: 20px;
+}
 
 .sidebar {
   width: 25%;
-  background-color: pink;
   height: 100%;
   border-right: 2px solid black;
   float:left;
@@ -44,20 +54,48 @@ body {
   margin-bottom: 5px;
 }
 
-.summary {
-
+.footer {
+  height: 60px;
 }
 
 .block {
-  margin-top: 5%;
+  margin-top: 25px;
   border-bottom: 1px solid grey;
+}
+
+.block:last-of-type {
+  border-bottom: 0;
 }
 
 .company {
   display: inline;
-  font-weight: bold;
   float: left;
   margin-top: 0.25em;
+}
+
+.edu {
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+
+.label-skill {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-label {
+  font-size: 0.9em;
+  margin-top: 10px;
+}
+
+.skillset {
+  width: 30%;
+  float: left;
+}
+
+.clear {
+    clear: both;
 }
 
 .employment-term{
@@ -66,16 +104,14 @@ body {
 }
 
 .job {
-  margin-top: 30px;
-
+  margin-top: 5px;
+  margin-bottom: 25px;
 }
 
 .job-title {
-  opacity: 0.8;
   clear: both;
-  letter-spacing: 1px;
   display: block;
-  font-size: 1.7em;
+  font-size: 1.3em;
   margin-top: 0.1em;
   margin-bottom: 0.1em;
   margin-left: 0;
@@ -112,6 +148,8 @@ body {
 
 .address {
   position: absolute;
+  margin-left: auto;
+  margin-right: auto;
   bottom:0px;
 }
 
@@ -127,27 +165,28 @@ body {
     margin-right: auto;
     font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
+
 .view-row
 {
     display:table-row;
 }
+
 .view-row > div
 {
     display: table-cell;
-
 }
 
 .view-name
 {
-  margin-left: 10%;
+  margin-left: 15%;
   text-align: left;
   box-sizing: border-box;
-  padding-left: 15px;
+  padding-left: 25px;
 }
 .view-type
 {
     border-right: 2px solid black;
     box-sizing: border-box;
-    padding-right: 5%;
+    padding-right: 2.5%;
     position: relative;
 }

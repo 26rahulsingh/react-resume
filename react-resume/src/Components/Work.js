@@ -12,9 +12,9 @@ const Work = props => {
   return (
     <div className="block">
       <span className="title">Experience</span>
-      {jobs.map(job =>{
+      {jobs.map((job, index) =>{
         return (
-            <div className="job">
+            <div key={index} className="job">
             <div className="company"><a href={job.website} target="_blank">{job.company}</a></div><div className="employment-term">{formatDate(job.startDate)} - {formatDate(job.endDate)}</div>
             <div className="job-title">{job.position}</div>
             <div className="job-summary">
@@ -22,8 +22,8 @@ const Work = props => {
             </div>
             <div className="job-highlights">
               <ul>
-                {job.highlights.map(highlight => (
-                  <li>{highlight}</li>
+                {job.highlights.map((highlight, index) => (
+                  <li key={index}>{highlight}</li>
                 ))}
               </ul>
             </div>

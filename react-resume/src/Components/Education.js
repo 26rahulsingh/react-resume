@@ -8,9 +8,9 @@ const Education = props => {
 
     <div className="block">
       <span className="title">Education</span>
-      {schools.map(school =>{
+      {schools.map((school, index) =>{
         return (
-          <div className="job">
+          <div key={index} className="edu">
             <div className="company">{school.institution}</div><div className="employment-term">{formatDate(school.startDate)} - {formatDate(school.endDate)}</div>
             <div className="job-title">{`${school.studyType} of ${school.area}`}</div>
           </div>

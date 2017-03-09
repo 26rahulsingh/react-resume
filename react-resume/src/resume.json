@@ -1,18 +1,18 @@
 {
 	"basics": {
 		"name": "John Williamson",
-		"label": "Programmer",
+		"label": "Web Developer",
 		"picture": "",
 		"email": "johnjwilliamson@live.com",
 		"phone": "0490043181",
 		"website": "http://jjs.life",
-		"summary": "From Brisbane Queensland, studying to become a software developer working in IT Support with a Diploma of Networking & MCSA:2012 ",
+		"summary": "Full Stack Web Developer student at Coder Factory Melbourne.",
 		"location": {
-			"address": "",
-			"postalCode": "",
-			"city": "",
+			"address": "1 Bakery Lane",
+			"postalCode": "3000",
+			"city": "Melbourne",
 			"countryCode": "",
-			"region": ""
+			"region": "VIC"
 		},
 		"profiles": [{
 			"network": "Facebook",
@@ -26,6 +26,10 @@
 			"network": "GitHub",
 			"username": "jjwilliamson",
 			"url": "https://github.com/velua"
+		}, {
+			"network": "Twitter",
+			"username": "velua",
+			"url": "https://twitter.com/velua"
 		}]
 	},
 	"work": [{
@@ -36,7 +40,7 @@
 		"endDate": "2017-02-07",
 		"summary": "Ezidebit is a payment solution provider offering Direct Debit, BPAY and ecommerce solutions.",
 		"highlights": [
-			"Provide IT support to an office of 100+ staff",
+			"Internal IT support to an office of 100+ staff",
 			"Active Directory & Group Policy administration",
 			"Create & maintain scripts providing automation and simplification of routine tasks."
 		]
@@ -69,6 +73,14 @@
 	}],
 	"volunteer": [{}],
 	"education": [{
+		"institution": "Microsoft",
+		"area": "Server 2012",
+		"studyType": "Solutions Associate",
+		"startDate": "2013-08-10",
+		"endDate": "2013-08-10",
+		"gpa": "N/A",
+		"courses": []
+		},{
 		"institution": "TAFE East Coast",
 		"area": "Information Technology Networking",
 		"studyType": "Diploma",
@@ -80,35 +92,38 @@
 			"Certficate IV of Information Technology",
 			"Certficate III of Information Technology"
 		]
-	},{
-		"institution": "Microsoft",
-		"area": "Server 2012",
-		"studyType": "Microsoft Certified Solutions Associate",
-		"startDate": "2013-08-10",
-		"endDate": "2013-08-10",
-		"gpa": "N/A",
-		"courses": []
 	}],
 	"awards": [{}],
 	"publications": [{}],
-	"skills": [{
+	"skills": [
+		{
+		"name": "Customer Service",
+		"level": "Professional",
+		"keywords": [
+			"Corporate remote & onsite IT support.",
+			"Communication and redemption of critical line of business applications.",
+			"24/7 After hours support."
+		]
+	},{
 		"name": "Network Administration",
 		"level": "Professional",
 		"keywords": [
 			"DHCP",
 			"DNS",
-			"Server administration",
-			"Fail over clustering",
-			"Exchange administration"
+			"Windows Server administration.",
+			"Fail over clustering.",
+			"Software Deployment.",
+			"Microsoft Exchange administration."
 		]
 	}, {
-		"name": "Customer Service",
-		"level": "Professional",
+		"name": "Software Development",
+		"level": "Student",
 		"keywords": [
-			"Onsite IT support",
-			"Remote IT support",
-			"Written communication",
-			"Communication of server outages both users & decision makers."
+			"Javascript",
+			"Ruby",
+			"HTML & CSS",
+			"React",
+			"Rails"
 		]
 	}],
 	"languages": [{
@@ -135,9 +150,9 @@
 	}],
 	"references": [{
 		"name": "Chris Taylor",
-		"reference": "After working closely with John throughout our 2 year time together at TAFE I then reffered him to my employer Rivercity Solutions, John has been a reliable and trustworthy member of our team and served our clients in a highly professional manner."
+		"reference": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 	}, {
 		"name": "James King",
-		"reference": ""
+		"reference": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 	}]
 }

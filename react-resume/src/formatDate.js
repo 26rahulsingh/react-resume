@@ -16,11 +16,9 @@ const formatDate = function(date){
   }
 
   const dateObject = new Date(date);
-  console.log(dateObject)
-  if (dateObject){
-    console.log('it broke')
-  }
+
   return `${(months[dateObject.getMonth()])} ${dateObject.getFullYear()}`
+
 }
 
 export default formatDate;
