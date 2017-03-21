@@ -24,7 +24,7 @@ class App extends Component {
           <Education schools={json.education} />
           <Skills skills={json.skills} />
           <References references={json.references} />
-          </div>
+        </div>
     </div>
     <Footer />
   </div>
