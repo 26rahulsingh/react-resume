@@ -166,6 +166,7 @@
       "url": "http://jjs.life/happy-hour-2/",
       "roles": [ "Designer", "Developer" ],
       "entity": "",
+      "thumbnail": "http://jjs.life/bar.png",
       "type": "web application"
     },
     {
@@ -178,6 +179,7 @@
       "url": "http://jjs.life/happy-hour-2/",
       "roles": [ "Designer", "Developer" ],
       "entity": "",
+      "thumbnail": "http://jjs.life/beach.png",
       "type": "website"
     },
     {
@@ -190,6 +192,7 @@
       "url": "http://callankrause.com",
       "roles": [ "Designer", "Developer" ],
       "entity": "",
+      "thumbnail": "http://jjs.life/cage.png",
       "type": "website"
     },
     {
@@ -202,6 +205,7 @@
       "url": "http://jjs.life/react-resume/",
       "roles": ["Designer", "Developer" ],
       "entity": "",
+      "thumbnail": "http://jjs.life/resume.png",
       "type": "web application"
     }
   ]
