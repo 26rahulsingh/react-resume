@@ -154,5 +154,55 @@
 	}, {
 		"name": "James King",
 		"reference": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-	}]
+	}],
+	"projects": [
+    {
+      "name": "Happy Hour",
+      "description": "Happr Hour deals at bars around Melbourne.",
+      "highlights": [],
+      "keywords": ["React", "HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/happy-hour-2/",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "type": "web application"
+    },
+    {
+      "name": "Beachfront Electrical",
+      "description": "Website for an Electrical business based on the Sunshine Coast.",
+      "highlights": [],
+      "keywords": ["HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/happy-hour-2/",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "type": "website"
+    },
+    {
+      "name": "Callan Krause",
+      "description": "Sunshine Coast MMA Fighter portfolio.",
+      "highlights": [],
+      "keywords": ["HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://callankrause.com",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "type": "website"
+    },
+    {
+      "name": "React Resume",
+      "description": "Resume generator built in React reading from Resume.json.",
+      "highlights": [],
+      "keywords": ["React","HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/react-resume/",
+      "roles": ["Designer", "Developer" ],
+      "entity": "",
+      "type": "web application"
+    }
+  ]
 }
