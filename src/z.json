@@ -1,0 +1,215 @@
+{
+	"basics": {
+		"name": "John Williamson",
+		"label": "Software developer in Melbourne.",
+		"picture": "http://jjs.life/pic.png",
+		"email": "johnjwilliamson@live.com",
+		"phone": "0490043181",
+		"website": "http://jjs.life",
+		"summary": "Starting my career in Brisbane as a Support Specialist working in Managed Services for 3 years I have since moved onto web development as a student at Coder Factory in Melbourne. I am focused on achieving programming skillsets to further my career and oppurtunities.",
+		"location": {
+			"address": ".",
+			"postalCode": "3015",
+			"city": "Melbourne",
+			"countryCode": "",
+			"region": "VIC"
+		},
+		"profiles": [{
+			"network": "Facebook",
+			"username": "John.J.95",
+			"url": "http://facebook.com/John.J.95"
+		}, {
+			"network": "LinkedIn",
+			"username": "jjwilliamson",
+			"url": "http://linkedin.com/in/jjwilliamson"
+		}, {
+			"network": "GitHub",
+			"username": "jjwilliamson",
+			"url": "https://github.com/velua"
+		}, {
+			"network": "Twitter",
+			"username": "velua",
+			"url": "https://twitter.com/velua"
+		}, {
+			"network": "Resume.json",
+			"url": "https://gist.githubusercontent.com/Velua/afddfb4c94ed7e3ed2bd66c28989674b/raw/"
+		}]
+	},
+	"work": [{
+		"company": "Ezidebit",
+		"position": "Support Technician",
+		"website": "https://www.ezidebit.com/en-au",
+		"startDate": "2016-08-22",
+		"endDate": "2017-02-07",
+		"summary": "Ezidebit is a payment solution provider offering Direct Debit, BPAY and ecommerce solutions.",
+		"highlights": [
+			"Internal IT support to an office of 100+ staff",
+			"Active Directory & Group Policy administration",
+			"Create & maintain scripts providing automation and simplification of routine tasks."
+		]
+	}, {
+		"company": "Rivercity Solutions",
+		"position": "Support Specialist",
+		"website": "http://rivercity.net.au",
+		"startDate": "2015-01-06",
+		"endDate": "2016-08-16",
+		"summary": "Rivercity Solutions is a Managed Service Provider servicing small to medium businesses in Brisbane.",
+		"highlights": [
+			"Active Directory & Group Policy administration ranging from Server 2003 to Server 2012.",
+			"First point of contact for over 50 Managed Clients.",
+			"Documentation of internal processes including server outage redemption & communication procedures.",
+			"Daily use of Connectwise, LabTech & ITGlue."
+		]
+	}, {
+		"company": "Secure Access",
+		"position": "Service Technician",
+		"website": "http://secureaccess.com.au",
+		"startDate": "2014-01-06",
+		"endDate": "2014-12-04",
+		"summary": "Secure Access is a Managed Service Provider based in Maroochydore Sunshine Coast.",
+		"highlights": [
+			"Active Directory and Exchange administration.",
+			"Remote and onsite support of Breakfix, Block & Managed clients.",
+			"Desktop and laptop repair as an Acer warranty technician.",
+			"Daily use of Connectwise & LabTech."
+		]
+	}],
+	"volunteer": [{}],
+	"education": [{
+		"institution": "Microsoft",
+		"area": "Server 2012",
+		"studyType": "Solutions Associate",
+		"startDate": "2013-08-10",
+		"endDate": "2013-08-10",
+		"gpa": "N/A",
+		"courses": []
+		},{
+		"institution": "TAFE East Coast",
+		"area": "Information Technology Networking",
+		"studyType": "Diploma",
+		"startDate": "2012-02-01",
+		"endDate": "2013-11-16",
+		"gpa": "N/A",
+		"courses": [
+			"Diploma of Networking",
+			"Certficate IV of Information Technology",
+			"Certficate III of Information Technology"
+		]
+	}],
+	"awards": [{}],
+	"publications": [{}],
+	"skills": [
+		{
+		"name": "Customer Service",
+		"level": "Professional",
+		"keywords": [
+			"Corporate remote & onsite IT support.",
+			"Communication and redemption of critical line of business applications.",
+			"24/7 After hours support."
+		]
+	},{
+		"name": "Network Administration",
+		"level": "Professional",
+		"keywords": [
+			"DHCP",
+			"DNS",
+			"Windows Server administration.",
+			"Fail over clustering.",
+			"Software Deployment.",
+			"Microsoft Exchange administration."
+		]
+	}, {
+		"name": "Software Development",
+		"level": "Student",
+		"keywords": [
+			"Javascript",
+			"Ruby",
+			"HTML & CSS",
+			"React",
+			"Powershell"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+		"name": "Web Development",
+		"keywords": [
+			"Client side rendering",
+			"React",
+			"HTML",
+			"CSS",
+			"Javascript",
+			"Node",
+			"API"
+		]
+	}, {
+		"name": "Self driving cars",
+		"keywords": [
+			"Tesla",
+			"Electric veichles"
+		]
+	}],
+	"references": [{
+		"name": "Chris Taylor",
+		"reference": "Project Management - Rivercity Solutions - 1300 438 727"
+	}, {
+		"name": "James King",
+		"reference": "Service Delivery Manager - Rivercity Solutions - 1300 438 727"
+	}],
+	"projects": [
+    {
+      "name": "Happy Hour",
+      "description": "Happr Hour deals at bars around Melbourne.",
+      "highlights": [],
+      "keywords": ["React", "HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/happy-hour-2/",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "thumbnail": "http://jjs.life/bar.png",
+      "type": "web application"
+    },
+    {
+      "name": "Beachfront Electrical",
+      "description": "Website for an Electrical business based on the Sunshine Coast.",
+      "highlights": [],
+      "keywords": ["HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/happy-hour-2/",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "thumbnail": "http://jjs.life/beach.png",
+      "type": "website"
+    },
+    {
+      "name": "Callan Krause",
+      "description": "Sunshine Coast MMA Fighter portfolio.",
+      "highlights": [],
+      "keywords": ["HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://callankrause.com",
+      "roles": [ "Designer", "Developer" ],
+      "entity": "",
+      "thumbnail": "http://jjs.life/cage.png",
+      "type": "website"
+    },
+    {
+      "name": "React Resume",
+      "description": "Resume generator built in React reading from Resume.json.",
+      "highlights": [],
+      "keywords": ["React","HTML", "CSS"],
+      "startDate": "",
+      "endDate": "", 
+      "url": "http://jjs.life/react-resume/",
+      "roles": ["Designer", "Developer" ],
+      "entity": "",
+      "thumbnail": "http://jjs.life/resume.png",
+      "type": "web application"
+    }
+  ]
+}

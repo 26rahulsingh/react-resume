@@ -25,8 +25,6 @@ const Sidebar = props => {
                 return <a href={profile.url} key={index} target="_blank"><i className="fa social-icon fa-github fa-2x" aria-hidden="true"></i></a>
               case "Twitter":
                 return <a href={profile.url} key={index} target="_blank"><i className="fa social-icon fa-twitter fa-2x" aria-hidden="true"></i></a>
-              default:
-                return <a href={profile.url} key={index} target="_blank"><i className="fa social-icon fa-globe fa-2x" aria-hidden="true"></i></a>
             }
           })}
 
